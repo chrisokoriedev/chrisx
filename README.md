@@ -1,5 +1,4 @@
-<img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif" align='right' width="400">
-
+[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Okorie Christian Chukwu</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img src="https://i.gifer.com/5eKX.gif" align='right' width="400">
